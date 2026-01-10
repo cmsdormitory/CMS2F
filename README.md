@@ -1,7 +1,7 @@
 # 🎯 cmos.dormitory（Release） — Dormitory Points & Rewards System 
 
   ` ` `
-***请注意！测试实验阶段如遇问题请反馈！Please note! If you encounter any issues during the testing phase, please provide feedback!***
+$\color{red}{***请注意！测试实验阶段如遇问题请反馈！Please note! If you encounter any issues during the testing phase, please provide feedback!***}$
  ` ` `
  
 Dormitory Points & Rewards System — a lightweight platform designed for managing points, evaluations, and redemptions in dormitory or shared-living scenarios.
